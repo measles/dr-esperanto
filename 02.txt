@@ -59,6 +59,12 @@ si - специфичное местоимение третьего лица, м
  larĝa - широкий (широкая)
  seka - сухой (сухая)
  plena - полный (полная)
+Как и в остальных случаях, приставка mal- удваивает ваш словарный запас:
+ malnova - старый (в смысле как "старый стул", иначе maljuna) 
+ mallonga - короткий
+ mallarĝa - узкий
+ malseka - мокрый
+ malplena - пустой
 
 4. Глаголы:
  lavi - мыться
@@ -70,3 +76,21 @@ si - специфичное местоимение третьего лица, м
  Ŝi estas nia nova programisto. - Она — наша новая програмистка.
  Mi amis vin. - Я вас любил
  Li lavis la filon. - Он умывал(купал) сына.
+
+5. Предлоги:
+ en - в
+  la hundo estis en la domo - собака была в доме
+ sur - на
+  la kato estas sur la tbalo ĉar la hundo estas en la domo - кот на столе потому что собака в доме
+ super - над
+  la plafono estas sur la planko - потолок над полом
+ sub - под
+  la hundo estis sub la seĝo - собака была под стулом
+ antaŭ - перед
+  la kato estis antaŭ la pordo - кот был перед дверью
+ malantaŭ - за (чем-то)
+  la knabo estas malantaŭ la tablo - мальчик за столом
+ inter - между
+  la knabino estis inter la viro kaj la virino - девочка находилась между мужчиной и женщиной
+ apud - возле
+  lamalseka hundo estis apud la filo - мокрый собака рядом с сыном
