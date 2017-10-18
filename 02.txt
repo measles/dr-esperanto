@@ -37,9 +37,38 @@ si - специфичное местоимение третьего лица, м
  Li lavas lin - он моет его (второй он — другая персона)
  li lavas sin - он умывается
 
-Притяжательные местоимения создаются окончанием -a:
- mia kato
- via hundoj
+1.1 Притяжательные местоимения создаются добавлением окончания -a к личному местоимению:
+
+ mia kato	- мой кот
+ via hundo	- твоя собака / ваша собака
+ lia domo 	- его дом
+ ŝia filino	- ее дочь
+ ilia urbo	- их город
+
+1.2 Подобно прилагательным, притяжательные местоимения могут принимать окончания множественного числа -j
+
+ miaj katoj     - мои коты
+ viaj tabloj	- твои столы / ваши столы
+ liaj hundoj	- его собаки
+ ŝiaj birdoj	- ее птицы
+ iliaj domoj	- их дома
+
+1.3 Подобно прилагательным, притяжательные местоимения могут принимать окончания винительного падежа -n (а во множественном чисте будет оба окончания - jn)
+
+ Mi vidas mian katon - Я вижу моего кота
+ Mi vidas miajn katojn - Я вижу моих котов
+
+ Mi vidas vian tablon	- Я вижу твой стол / ваш стол
+ Mi vidas viajn tablojn	- Я вижу твои столы / ваши столы
+
+ Mi vidas lian hundon	- Я вижу его собаку
+ Mi vidas liajn hundojn	- Я вижу его собак
+
+ Mi vidas ŝian birdon	- Я вижу ее птицу
+ Mi vidas ŝiajn birdojn	- Я вижу ее птиц
+
+ Mi vidas ilian domon	- Я вижу их дом
+ Mi vidas iliajn domojn	- Я вижу их дома
 
 2. Новые существительные:
  domo - дом
@@ -89,9 +118,9 @@ si - специфичное местоимение третьего лица, м
  en - в
   la hundo estis en la domo - собака была в доме
  sur - на
-  la kato estas sur la tbalo ĉar la hundo estas en la domo - кот на столе потому что собака в доме
+  la kato estas sur la tablo ĉar la hundo estas en la domo - кот на столе потому что собака в доме
  super - над
-  la plafono estas sur la planko - потолок над полом
+  la plafono estas super la planko - потолок над полом
  sub - под
   la hundo estis sub la seĝo - собака была под стулом
  antaŭ - перед
@@ -101,4 +130,4 @@ si - специфичное местоимение третьего лица, м
  inter - между
   la knabino estis inter la viro kaj la virino - девочка находилась между мужчиной и женщиной
  apud - возле
-  lamalseka hundo estis apud la filo - мокрый собака рядом с сыном
+  la malseka hundo estis apud la filo - мокрый собака рядом с сыном
