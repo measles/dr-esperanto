@@ -1,0 +1,52 @@
+\usetheme{Madrid}
+\usecolortheme{spruce}
+
+% Прыбраць дату з ніжняга калантытула
+\makeatother
+\setbeamertemplate{footline}
+{
+  \leavevmode%
+  \hbox{%
+  \begin{beamercolorbox}[wd=.3\paperwidth,ht=2.25ex,dp=1ex,center]{author in head/foot}%
+    \usebeamerfont{author in head/foot}\insertshortauthor
+  \end{beamercolorbox}%
+  \begin{beamercolorbox}[wd=.7\paperwidth,ht=2.25ex,dp=1ex,center]{title in head/foot}%
+    \usebeamerfont{title in head/foot}\insertshorttitle\hspace*{3em}
+    \insertframenumber{} / \inserttotalframenumber\hspace*{1ex}
+  \end{beamercolorbox}}%
+  \vskip0pt%
+}
+\makeatletter
+
+% Замяніць дату знакам капірайту і годам
+\date{\copyright\the\year}
+
+% Прыбраць навігацыйнае меню
+\setbeamertemplate{navigation symbols}{}
+% змяняем колер значкоў у маркіраваным спісе
+\definecolor{EsperantoGreen}{HTML}{005229}
+\setbeamercolor*{item}{fg=EsperantoGreen}
+
+
+% Каб дадаваць зыходны код
+\usepackage{listings}
+% Дазволіць устаўляць LaTeX код паміж значкамі
+\lstset{escapeinside=||}
+
+\usepackage{indentfirst,amsfonts} % падтрымка кірылічных тыпаграфічных стандартаў
+
+\usepackage[english,russian]{babel}
+\usepackage[T2A]{fontenc}
+\usepackage[utf8]{inputenc}
+
+% for hyperlinks
+\usepackage{hyperref}
+% for strike-out text
+\usepackage[normalem]{ulem}
+
+\ifpdf
+        \usepackage{cmap} % пошук па PDF
+        \pdfcompresslevel=9 % узровень кампрэсіі PDF
+\else
+        \usepackage{graphicx}
+\fi
